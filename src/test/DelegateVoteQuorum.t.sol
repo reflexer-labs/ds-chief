@@ -22,7 +22,7 @@ import "ds-token/delegate.sol";
 import "ds-thing/thing.sol";
 import {DSDelegateRoles} from "ds-roles/delegate_roles.sol";
 import {DSRoles} from "ds-roles/roles.sol";
-import "ds-pause/protest-pause.sol";
+import "./protest-pause.sol";
 
 import "../DelegateVoteQuorum.sol";
 
